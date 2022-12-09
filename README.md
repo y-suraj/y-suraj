@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surajy1
+👋 Hi, I’m @surajy1
 - I am a coder who specializes in C/C++, HTML, and CSS. 
 - I am currently working on expanding my skillset to include data structure and algorithms (DSA) 
 - I am particularly interested in web design and problem-solving on Codechef.
