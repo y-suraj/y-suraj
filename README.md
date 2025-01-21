@@ -1,5 +1,5 @@
 👋 Hi, I’m Suraj
-- I am a coder who specializes in C/C++, HTML, and CSS. 
+- I am a coder who specializes in C/C++, HTML, CSS, and Javascript. 
 - I am currently working on expanding my skillset to include data structure and algorithms (DSA) 
 - I am particularly interested in web design and problem-solving on Codechef.
 - When I'm not coding, you can find me designing websites and working on other web design projects. 
