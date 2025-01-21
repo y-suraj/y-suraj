@@ -4,6 +4,7 @@
 - I am particularly interested in web design and problem-solving on Codechef.
 - When I'm not coding, you can find me designing websites and working on other web design projects. 
 - I also enjoy participating in coding challenges and competitions on Codechef, where I have gained recognition for my problem-solving abilities.
+- Visit my website [surajy.com](surajy.com)
 
 <!---
 surajy1/surajy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
